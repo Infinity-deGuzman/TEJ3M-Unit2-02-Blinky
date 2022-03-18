@@ -1,7 +1,13 @@
 # SPDX-FileCopyrightText: 2021 Kattni Rembor for Adafruit Industries
 #
 # SPDX-License-Identifier: MIT
-# created by Infinity de Guzman on March 18, 2022
+#
+# Blink
+#
+# Turns an LED on for one second, then off for one second, repeatedly.
+# But the interval increases each time by 1 more second
+#
+# created by Infinity de Guzman on March 2022
 
 """
 LED example for Pico. Blinks external LED on and off.
